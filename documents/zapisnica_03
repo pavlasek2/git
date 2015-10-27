@@ -5,7 +5,6 @@ Prítomní: J,L,D,M
 Tasky z minula: 
 dokončiť špecifikáciu - J - spravilo sa
 konceptuálna analýza - dokončila sa s miernymi úpravami niektorých diagramov
-GUI - M - grafické rozhranie sa navrhlo podľa špecifikácie a podľa doterajšieho programu
 
 
 Agenda: 
@@ -15,10 +14,21 @@ Agenda:
   4. Ďalšie diagramay - M,D
   
 
+1. Návrh
+treba nakresliť schému zapojenia prístrojov a ich komunikáciu s rozhraniami a ďalšie komponenty pre komunikáciu, spracovávanie a vizualizáciu.
 
+2. Dátový model bude v tomto porjekte najmä o databáze, ktorá bude udržiavať merania podľa mena, typu, dátumu a ďalších parametrov.
+Bude obsahavať viac tabuliek pre každé meranie, alebo viac tabuliek pre každý cyklus. Meranie typu 2D Scan bude obsahovať ešte navyše jednu hodnotu pre každú x,y súradnicu
+
+3. Vzory
+prejsť aké možné vzory sa dajú použiť pre našu aplikáciu. Keďže sa jedná najmä o prácu s dátami, bude možné použiť niektorý z modelov zameraných an dátovú stránku.
+
+4. Ďalšie diagramy zahŕňajú stavové diagramy, ktoré neboli v konceptuálnej analýze. Treba opraviť tie podľa pokynov cvičiaceho.
+A treba spraviť tiež data flow diagramy. 
   
 Najbližšie stretnutie: 28.10.2015
 Ciele do najbližšieho stretnutia:
-  - dokončiť Ghantov diagram => J
-  - poslať na Git plán, a kalendár => L,D
-  - urobiť prvý návrh špecifikácie => J,D
+  - Spraviť návrh so všetkými potrebnými dokumentami => J
+  - Vypracovať a nakresliť dátový model. - J,L
+  - Dokončiť diagramy - D
+  - GUI grafické rozhranie podľa špecifikácie a podľa doterajšieho programu - M 
