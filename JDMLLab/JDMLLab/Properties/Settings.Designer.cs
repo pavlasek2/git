@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace JDLMLab.Properties
+namespace JDMLLab.Properties
 {
 
 

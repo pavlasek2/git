@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("JDLMLab")]
+[assembly: AssemblyTitle("JDMLLab")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("JDLMLab")]
+[assembly: AssemblyProduct("JDMLLab")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("9b0bf32c-16c6-4abc-bb46-27e66af18073")]
+[assembly: Guid("80be387f-caf5-4d6a-8470-afa16acd2a56")]
 
 // Version information for an assembly consists of the following four values:
 //
